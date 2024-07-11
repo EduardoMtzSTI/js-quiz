@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál de las siguientes es una forma correcta de declarar una variable en JavaScript?",
+    "code": "",
+    "answers": [
+      "variableName var;",
+      "variable variableName;",
+      "let variableName;",
+      "variableName int;"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "¿Qué método se utiliza para agregar un nuevo elemento al final de un array en JavaScript?",
+    "code": "",
+    "answers": [
+      "array.push()",
+      "array.add()",
+      "array.insert()",
+      "array.append()"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál es el resultado de la siguiente expresión en JavaScript: '2' + 2?",
+    "code": "'2' + 2",
+    "answers": ["4", "22"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "¿Qué se imprimirá en la consola al ejecutar el siguiente código?;",
+    "code": "console.log(typeof null);",
+    "answers": ["null", "undefined", "object", "number"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "¿Cómo no se escribe un comentario en una sola línea en JavaScript?",
+    "code": "",
+    "answers": [
+      "<!-- comentario -->",
+      "// comentario",
+      "/* comentario */",
+      "# comentario"
+    ],
+    "correctAnswer": 0
+  }
+]
